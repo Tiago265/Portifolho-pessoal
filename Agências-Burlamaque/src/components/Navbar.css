@@ -1,0 +1,7 @@
+.container-navbar{
+    width: 50%;
+    height: 15vh;
+    background-color: black;
+    border-end-end-radius: 50px;
+    border-end-start-radius: 50px;
+}
